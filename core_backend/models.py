@@ -12,7 +12,7 @@ class Room(BaseModel):
     id : str
     name : str 
     created_by : str 
-    created_date : datetime
+    created_at : datetime
     max_participants : int = 10
     is_active : bool = True 
 
