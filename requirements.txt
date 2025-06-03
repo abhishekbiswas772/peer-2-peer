@@ -2,3 +2,6 @@ cryptography
 fastapi
 redis
 python-jose
+uvicorn
+aiofiles
+python-multipart
